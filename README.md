@@ -143,6 +143,7 @@ This project has been fully modernized for 7-Zip 25.0. The core library is produ
 * Many thanks to _Joe_ who provided so many great patches
 * Many thanks to _Christoph_ who gave so many great advises and patches
 * Many thanks to _Christoph Thielecke_ for providing great patches for OS2 and dynamic library
+* This project is made from https://github.com/celyrin/lib7zip
 * Thanks to the 7-Zip team for maintaining the excellent compression library
 
 ## 🔗 Related Projects
