@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: lib7zip
+Description: 7zip library wrapper for C++
+Version: @VERSION@
+Libs: -L${libdir} -l7zip @DL_LIBS@
+Cflags: -I${includedir}
